@@ -15,6 +15,7 @@ The simple  Deep Q Network (DQN) algorithm will be implemented  as described in 
 
 
 ### DQN Agent Hyper Parameters
+![Reward Plot](https://github.com/josef657/p1_udacity/blob/master/Scoring.png?raw=true)
 
 - BUFFER_SIZE (int): replay buffer size : 1e6
 - BATCH_SIZE (int): mini batch size :128
